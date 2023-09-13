@@ -10,6 +10,7 @@ namespace Ejemplo1
     {
         static void Main(string[] args)
         {
+            //Esto es impresionante , es lo mejor que me pasó en la vida
         }
     }
 }
