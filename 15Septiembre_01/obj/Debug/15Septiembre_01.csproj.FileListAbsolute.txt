@@ -1,0 +1,7 @@
+C:\Users\jramo\Documents\GitHub\AO23_24\15Septiembre_01\bin\Debug\15Septiembre_01.exe.config
+C:\Users\jramo\Documents\GitHub\AO23_24\15Septiembre_01\bin\Debug\15Septiembre_01.exe
+C:\Users\jramo\Documents\GitHub\AO23_24\15Septiembre_01\bin\Debug\15Septiembre_01.pdb
+C:\Users\jramo\Documents\GitHub\AO23_24\15Septiembre_01\obj\Debug\15Septiembre_01.csprojAssemblyReference.cache
+C:\Users\jramo\Documents\GitHub\AO23_24\15Septiembre_01\obj\Debug\15Septiembre_01.csproj.CoreCompileInputs.cache
+C:\Users\jramo\Documents\GitHub\AO23_24\15Septiembre_01\obj\Debug\15Septiembre_01.exe
+C:\Users\jramo\Documents\GitHub\AO23_24\15Septiembre_01\obj\Debug\15Septiembre_01.pdb

@@ -1,0 +1,11 @@
+C:\Users\jramo\Documents\GitHub\AO23_24\15Septiembre_02VB\bin\Debug\15Septiembre_02VB.exe.config
+C:\Users\jramo\Documents\GitHub\AO23_24\15Septiembre_02VB\bin\Debug\15Septiembre_02VB.exe
+C:\Users\jramo\Documents\GitHub\AO23_24\15Septiembre_02VB\bin\Debug\15Septiembre_02VB.pdb
+C:\Users\jramo\Documents\GitHub\AO23_24\15Septiembre_02VB\bin\Debug\15Septiembre_02VB.xml
+C:\Users\jramo\Documents\GitHub\AO23_24\15Septiembre_02VB\obj\Debug\15Septiembre_02VB.vbprojAssemblyReference.cache
+C:\Users\jramo\Documents\GitHub\AO23_24\15Septiembre_02VB\obj\Debug\_15Septiembre_02VB.Resources.resources
+C:\Users\jramo\Documents\GitHub\AO23_24\15Septiembre_02VB\obj\Debug\15Septiembre_02VB.vbproj.GenerateResource.cache
+C:\Users\jramo\Documents\GitHub\AO23_24\15Septiembre_02VB\obj\Debug\15Septiembre_02VB.vbproj.CoreCompileInputs.cache
+C:\Users\jramo\Documents\GitHub\AO23_24\15Septiembre_02VB\obj\Debug\15Septiembre_02VB.exe
+C:\Users\jramo\Documents\GitHub\AO23_24\15Septiembre_02VB\obj\Debug\15Septiembre_02VB.xml
+C:\Users\jramo\Documents\GitHub\AO23_24\15Septiembre_02VB\obj\Debug\15Septiembre_02VB.pdb
