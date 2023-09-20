@@ -1,0 +1,7 @@
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema2\Ejercicios8y9\bin\Debug\Ejercicios8y9.exe.config
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema2\Ejercicios8y9\bin\Debug\Ejercicios8y9.exe
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema2\Ejercicios8y9\bin\Debug\Ejercicios8y9.pdb
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema2\Ejercicios8y9\obj\Debug\Ejercicios8y9.csprojAssemblyReference.cache
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema2\Ejercicios8y9\obj\Debug\Ejercicios8y9.csproj.CoreCompileInputs.cache
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema2\Ejercicios8y9\obj\Debug\Ejercicios8y9.exe
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema2\Ejercicios8y9\obj\Debug\Ejercicios8y9.pdb
