@@ -1,0 +1,7 @@
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema3\01_TiposVariables\bin\Debug\01_TiposVariables.exe.config
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema3\01_TiposVariables\bin\Debug\01_TiposVariables.exe
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema3\01_TiposVariables\bin\Debug\01_TiposVariables.pdb
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema3\01_TiposVariables\obj\Debug\01_TiposVariables.csprojAssemblyReference.cache
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema3\01_TiposVariables\obj\Debug\01_TiposVariables.csproj.CoreCompileInputs.cache
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema3\01_TiposVariables\obj\Debug\01_TiposVariables.exe
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema3\01_TiposVariables\obj\Debug\01_TiposVariables.pdb

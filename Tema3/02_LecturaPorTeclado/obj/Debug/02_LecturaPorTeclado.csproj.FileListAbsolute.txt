@@ -1,0 +1,7 @@
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema3\02_LecturaPorTeclado\bin\Debug\02_LecturaPorTeclado.exe.config
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema3\02_LecturaPorTeclado\bin\Debug\02_LecturaPorTeclado.exe
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema3\02_LecturaPorTeclado\bin\Debug\02_LecturaPorTeclado.pdb
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema3\02_LecturaPorTeclado\obj\Debug\02_LecturaPorTeclado.csprojAssemblyReference.cache
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema3\02_LecturaPorTeclado\obj\Debug\02_LecturaPorTeclado.csproj.CoreCompileInputs.cache
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema3\02_LecturaPorTeclado\obj\Debug\02_LecturaPorTeclado.exe
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema3\02_LecturaPorTeclado\obj\Debug\02_LecturaPorTeclado.pdb
