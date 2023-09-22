@@ -10,15 +10,22 @@ namespace _02_LecturaPorTeclado
     {
         static void Main(string[] args)
         {
-            //Programa que solicita al usuario DNI y Edad
+            //Programa que solicita al usuario DNI y Edad y salario
             String dni;
             byte edad;
+            float salario;
 
             Console.WriteLine("Introduce el DNI: ");
             dni = Console.ReadLine();
 
             Console.WriteLine("Introduce su edad: ");
-            edad = byte.Parse(Console.ReadLine());
+            //   edad = byte.Parse(Console.ReadLine());
+            edad = Convert.ToByte(Console.ReadLine());
+
+
+            Console.WriteLine("Introduzca su salario:");
+            salario = float.Parse(Console.ReadLine());
+            
 
             Console.WriteLine("DNI: " + dni);
             Console.WriteLine("Edad: " + edad);
