@@ -24,7 +24,9 @@ namespace _02_LecturaPorTeclado
 
 
             Console.WriteLine("Introduzca su salario:");
-            salario = float.Parse(Console.ReadLine());
+            //  salario = float.Parse(Console.ReadLine());
+            salario = Convert.ToSingle(Console.ReadLine());
+            
             
 
             Console.WriteLine("DNI: " + dni);

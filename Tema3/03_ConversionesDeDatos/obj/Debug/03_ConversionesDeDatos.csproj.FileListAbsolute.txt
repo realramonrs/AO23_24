@@ -1,0 +1,7 @@
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema3\03_ConversionesDeDatos\bin\Debug\03_ConversionesDeDatos.exe.config
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema3\03_ConversionesDeDatos\bin\Debug\03_ConversionesDeDatos.exe
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema3\03_ConversionesDeDatos\bin\Debug\03_ConversionesDeDatos.pdb
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema3\03_ConversionesDeDatos\obj\Debug\03_ConversionesDeDatos.csprojAssemblyReference.cache
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema3\03_ConversionesDeDatos\obj\Debug\03_ConversionesDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema3\03_ConversionesDeDatos\obj\Debug\03_ConversionesDeDatos.exe
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema3\03_ConversionesDeDatos\obj\Debug\03_ConversionesDeDatos.pdb
