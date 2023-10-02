@@ -1,0 +1,7 @@
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema3\05_Boletin3\obj\Debug\05_Boletin3.csprojAssemblyReference.cache
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema3\05_Boletin3\obj\Debug\05_Boletin3.csproj.CoreCompileInputs.cache
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema3\05_Boletin3\bin\Debug\05_Boletin3.exe.config
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema3\05_Boletin3\bin\Debug\05_Boletin3.exe
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema3\05_Boletin3\bin\Debug\05_Boletin3.pdb
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema3\05_Boletin3\obj\Debug\05_Boletin3.exe
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema3\05_Boletin3\obj\Debug\05_Boletin3.pdb

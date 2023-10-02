@@ -19,8 +19,8 @@ namespace _02_LecturaPorTeclado
             dni = Console.ReadLine();
 
             Console.WriteLine("Introduce su edad: ");
-            //   edad = byte.Parse(Console.ReadLine());
-            edad = Convert.ToByte(Console.ReadLine());
+              edad = byte.Parse(Console.ReadLine());
+            //edad = Convert.ToByte(Console.ReadLine());
 
 
             Console.WriteLine("Introduzca su salario:");
