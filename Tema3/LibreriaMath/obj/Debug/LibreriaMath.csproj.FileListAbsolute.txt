@@ -1,0 +1,7 @@
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema3\LibreriaMath\bin\Debug\LibreriaMath.exe.config
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema3\LibreriaMath\bin\Debug\LibreriaMath.exe
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema3\LibreriaMath\bin\Debug\LibreriaMath.pdb
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema3\LibreriaMath\obj\Debug\LibreriaMath.csprojAssemblyReference.cache
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema3\LibreriaMath\obj\Debug\LibreriaMath.csproj.CoreCompileInputs.cache
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema3\LibreriaMath\obj\Debug\LibreriaMath.exe
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema3\LibreriaMath\obj\Debug\LibreriaMath.pdb
