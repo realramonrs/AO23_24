@@ -133,7 +133,7 @@ namespace _05_Boletin3
             rebaja = (precioInicial * porcentajeDescuento) / 100;
 
             precioFinal = precioInicial - rebaja;
-
+            
             Console.WriteLine("Precio final " + precioFinal);
 
 
