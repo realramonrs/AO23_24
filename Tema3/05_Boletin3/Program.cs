@@ -88,9 +88,66 @@ namespace _05_Boletin3
             Console.WriteLine("Salario bruto: " + salarioBruto);
             Console.WriteLine("Salario neto : " + salarioNeto);
 
+            //Ejercicio 9
+            Console.WriteLine();
+            Console.WriteLine("**********EJERCICIO 9 *******");
 
-            
-            
+            int a = 2;
+            int b = 5;
+
+            int c = a;
+            a = b;
+            b = c;
+
+            Console.WriteLine("a = " + a);
+            Console.WriteLine("b = " + b);
+
+            //Ejercicio 13
+            Console.WriteLine(" ");
+            Console.WriteLine("*******EJERCICIO 13 *******");
+
+            short cateto1, cateto2;
+            double hipotenusa;
+
+            Console.WriteLine("Intro valor cateto 1: ");
+            cateto1 = short.Parse(Console.ReadLine());
+            Console.WriteLine("Intro valor cateto 2: ");
+            cateto2 = short.Parse(Console.ReadLine());
+
+            double radicando = Math.Pow(cateto1, 2) + Math.Pow(cateto2, 2);
+            hipotenusa = Math.Sqrt(radicando);
+
+            Console.WriteLine("Hipotenusa : " + hipotenusa);
+
+            //Ejercicio 14
+            Console.WriteLine();
+            Console.WriteLine("********EJERCICIO 14 *******");
+            float precioInicial, porcentajeDescuento, precioFinal,rebaja;
+
+            Console.WriteLine("Introduce precio inicial: ");
+            precioInicial = float.Parse(Console.ReadLine());
+
+            Console.WriteLine("% descuento ? ");
+            porcentajeDescuento = float.Parse(Console.ReadLine());
+
+            rebaja = (precioInicial * porcentajeDescuento) / 100;
+
+            precioFinal = precioInicial - rebaja;
+
+            Console.WriteLine("Precio final " + precioFinal);
+
+
+
+
+
+
+
+
+
+
+
+
+
             
             Console.ReadLine();
         }
