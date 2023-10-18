@@ -1,0 +1,7 @@
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema4\SentenciaIfElse\bin\Debug\SentenciaIfElse.exe.config
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema4\SentenciaIfElse\bin\Debug\SentenciaIfElse.exe
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema4\SentenciaIfElse\bin\Debug\SentenciaIfElse.pdb
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema4\SentenciaIfElse\obj\Debug\SentenciaIfElse.csprojAssemblyReference.cache
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema4\SentenciaIfElse\obj\Debug\SentenciaIfElse.csproj.CoreCompileInputs.cache
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema4\SentenciaIfElse\obj\Debug\SentenciaIfElse.exe
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema4\SentenciaIfElse\obj\Debug\SentenciaIfElse.pdb

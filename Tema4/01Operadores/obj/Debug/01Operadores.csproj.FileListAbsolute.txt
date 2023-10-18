@@ -1,0 +1,7 @@
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema4\01Operadores\bin\Debug\01Operadores.exe.config
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema4\01Operadores\bin\Debug\01Operadores.exe
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema4\01Operadores\bin\Debug\01Operadores.pdb
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema4\01Operadores\obj\Debug\01Operadores.csprojAssemblyReference.cache
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema4\01Operadores\obj\Debug\01Operadores.csproj.CoreCompileInputs.cache
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema4\01Operadores\obj\Debug\01Operadores.exe
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema4\01Operadores\obj\Debug\01Operadores.pdb

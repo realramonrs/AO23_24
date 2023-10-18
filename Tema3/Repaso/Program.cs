@@ -28,6 +28,8 @@ namespace Repaso
             //Utilizando la librería Math obtener el más pequeño
             int menor = Math.Min(a, b);
             int menor2 = Math.Min(menor, c);
+
+            
         }   
     }
 }
