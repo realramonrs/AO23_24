@@ -1,0 +1,7 @@
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema4\Boletin\bin\Debug\Boletin.exe.config
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema4\Boletin\bin\Debug\Boletin.exe
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema4\Boletin\bin\Debug\Boletin.pdb
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema4\Boletin\obj\Debug\Boletin.csprojAssemblyReference.cache
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema4\Boletin\obj\Debug\Boletin.csproj.CoreCompileInputs.cache
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema4\Boletin\obj\Debug\Boletin.exe
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema4\Boletin\obj\Debug\Boletin.pdb
