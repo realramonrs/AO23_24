@@ -1,0 +1,7 @@
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema4\SentenciaSwitch\bin\Debug\SentenciaSwitch.exe.config
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema4\SentenciaSwitch\bin\Debug\SentenciaSwitch.exe
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema4\SentenciaSwitch\bin\Debug\SentenciaSwitch.pdb
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema4\SentenciaSwitch\obj\Debug\SentenciaSwitch.csprojAssemblyReference.cache
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema4\SentenciaSwitch\obj\Debug\SentenciaSwitch.csproj.CoreCompileInputs.cache
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema4\SentenciaSwitch\obj\Debug\SentenciaSwitch.exe
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema4\SentenciaSwitch\obj\Debug\SentenciaSwitch.pdb
