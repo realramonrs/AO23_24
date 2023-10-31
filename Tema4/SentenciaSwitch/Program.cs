@@ -22,8 +22,9 @@ namespace SentenciaSwitch
                 Console.WriteLine("d) Salir del programa");
                 opcion = Char.Parse(Console.ReadLine());
 
+                int x = 9;
 
-                switch (opcion)
+               switch (opcion)
                 {
                     case 'a':
                         Console.WriteLine("Hola !!!");
