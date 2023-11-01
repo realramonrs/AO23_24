@@ -17,6 +17,27 @@ namespace Boletin
             if(ejercicio == 3)
             {
                 int a, b, c, d;
+                int menor;
+
+                if (a < b)
+                {
+                    menor = a;
+                }
+                else
+                {
+                    menor = b;
+                }
+
+                if (c < menor)
+                {
+                    menor = c;
+                }
+
+                if(d< menor)
+                {
+                    menor = d;
+                }
+
             }
             else if (ejercicio == 4)
             {
