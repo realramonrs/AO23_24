@@ -1,0 +1,7 @@
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema5\01BucleWhile\bin\Debug\01BucleWhile.exe.config
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema5\01BucleWhile\bin\Debug\01BucleWhile.exe
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema5\01BucleWhile\bin\Debug\01BucleWhile.pdb
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema5\01BucleWhile\obj\Debug\01BucleWhile.csprojAssemblyReference.cache
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema5\01BucleWhile\obj\Debug\01BucleWhile.csproj.CoreCompileInputs.cache
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema5\01BucleWhile\obj\Debug\01BucleWhile.exe
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema5\01BucleWhile\obj\Debug\01BucleWhile.pdb
