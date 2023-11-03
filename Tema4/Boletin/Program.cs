@@ -16,27 +16,33 @@ namespace Boletin
             ejercicio = int.Parse(Console.ReadLine());
             if(ejercicio == 3)
             {
-                int a, b, c, d;
-                int menor;
+                double n0, n1, n2, n3;
+                Console.WriteLine("ingrese el primer número");
+                n1 = double.Parse(Console.ReadLine());
+                Console.WriteLine("ingrese el segundo número");
+                n2 = double.Parse(Console.ReadLine());
+                Console.WriteLine("ingrese el tercer número");
+                n3 = double.Parse(Console.ReadLine());
 
-                if (a < b)
+                if (n1 > n2)
                 {
-                    menor = a;
+                    n0 = n1;
+                    n1 = n2;
+                    n2 = n0;
                 }
-                else
+                if (n2 > n3)
                 {
-                    menor = b;
+                    n0 = n2;
+                    n2 = n3;
+                    n3 = n0;
                 }
-
-                if (c < menor)
+                if (n1 > n2)
                 {
-                    menor = c;
+                    n0 = n1;
+                    n1 = n2;
+                    n2 = n0;
                 }
-
-                if(d< menor)
-                {
-                    menor = d;
-                }
+                Console.WriteLine("los numeros ordenados de mayor a menor son " + n1 + n2 + n3);
 
             }
             else if (ejercicio == 4)
