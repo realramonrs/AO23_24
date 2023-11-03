@@ -213,6 +213,68 @@ namespace Boletin
                 }
 
             }
+
+            else if(ejercicio == 17)
+            {
+                double horas, tasa, salarioBruto, salarioNeto;
+                Console.WriteLine("Introduce las horas: ");
+                horas = double.Parse(Console.ReadLine());
+                Console.WriteLine("Introduce la tasa: ");
+                tasa = double.Parse(Console.ReadLine());
+
+                double horasExtra, tasaExtra;
+
+                if(horas <= 38)
+                {
+                    salarioBruto = horas * tasa;
+                }
+                else
+                {
+                    horasExtra = horas - 38;
+                    tasaExtra = tasa + 0.5 * tasa;
+                    salarioBruto = 38 * tasa + horasExtra * tasaExtra;
+                }
+
+                if(salarioBruto <= 300)
+                {
+                    salarioNeto = salarioBruto;
+                }
+                else
+                {
+                    salarioNeto = salarioBruto - 0.1 * salarioBruto;
+                }
+                Console.WriteLine("Salario Bruto : " + salarioBruto);
+                Console.WriteLine("Salario neto : " + salarioNeto);
+
+
+            }
+            else if(ejercicio == 19)
+            {
+                char color = 'r';
+
+                switch (color)
+                {
+                    case 'r':
+                    case 'R':
+                        Console.WriteLine("ROJO");
+                        break;
+                    case 'v':
+                    case 'V':
+                        Console.WriteLine("VERDE");
+                        break;
+                    case 'a':
+                    case 'A':
+                        Console.WriteLine("AZUL");
+                        break;
+                    default:
+                        Console.WriteLine("NEGRO");
+                        break;
+                }
+
+
+
+
+            }
             else if(ejercicio ==21){
                 int a, b, c;
                 double sol11, sol22;
