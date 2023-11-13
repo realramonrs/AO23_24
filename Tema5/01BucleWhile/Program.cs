@@ -54,7 +54,42 @@ namespace _01BucleWhile
                 i++;
             }
 
+
             //Mostrar los valores entre n y m , cambiando de color cada 10 valores.
+            ConsoleColor[] colores = { ConsoleColor.Red, ConsoleColor.Yellow,ConsoleColor.Gray,ConsoleColor.Blue,ConsoleColor.White,ConsoleColor.DarkMagenta,ConsoleColor.DarkCyan};
+            int n = 25;
+            int m = 120;
+            int contador = 0;
+
+            i = n; //Inicializo la variable de control
+            Console.WriteLine();
+            Console.WriteLine("Valores entre " + n + " y " + m);
+            int aleatorio = 0;
+            int copia = 0;
+            while (i <= m)
+            {
+                contador++;
+                
+                
+                if (contador  % 10 == 0)
+                {
+                    aleatorio = new Random().Next(0, 6);
+                    
+                    while(aleatorio == copia)
+                    {
+                        aleatorio = new Random().Next(0, 6);
+
+                    }
+                    Console.ForegroundColor = colores[aleatorio];
+           
+                    
+                }
+                copia = aleatorio;
+                Console.Write(i + " ");
+                i = i + 1;
+               
+            }
+
 
 
 

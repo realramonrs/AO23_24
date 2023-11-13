@@ -1,0 +1,7 @@
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema5\02BucleFor\bin\Debug\02BucleFor.exe.config
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema5\02BucleFor\bin\Debug\02BucleFor.exe
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema5\02BucleFor\bin\Debug\02BucleFor.pdb
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema5\02BucleFor\obj\Debug\02BucleFor.csprojAssemblyReference.cache
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema5\02BucleFor\obj\Debug\02BucleFor.csproj.CoreCompileInputs.cache
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema5\02BucleFor\obj\Debug\02BucleFor.exe
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema5\02BucleFor\obj\Debug\02BucleFor.pdb
