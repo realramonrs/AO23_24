@@ -9,28 +9,20 @@ namespace _03BoletinBucles
 {
     class Program
     {
-        static void writeGreen(String titular)
-        {
-            Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine(titular);
-            Console.ForegroundColor = ConsoleColor.White;
-        }
-
-
-        static void Main(string[] args)
+       static void Main(string[] args)
         {
             Console.WriteLine("************Boletín de Bucles*********");
             char opcion;
             do
             {
-               writeGreen("Escoja un ejercicio entre 5 y 25");
+               MisFunciones.writeGreen("Escoja un ejercicio entre 5 y 25");
                 int ejercicio = int.Parse(Console.ReadLine());
 
                 switch (ejercicio)
                 {
                     case 5:
 
-                        writeGreen("Ejercicio 5: ");
+                        MisFunciones.writeGreen("Ejercicio 5: ");
                         int i = 320;
 
                         while (i >= 160) 
@@ -43,7 +35,7 @@ namespace _03BoletinBucles
                         break;
                     case 6:
 
-                        writeGreen("Ejercicio 6:");
+                        MisFunciones.writeGreen("Ejercicio 6:");
 
                         for ( i = 0;i<= 100; i++) { 
                             if(i % 5 == 0 && i % 7 == 0)
@@ -54,12 +46,12 @@ namespace _03BoletinBucles
                         Console.WriteLine();
                         break;
                     case 7:
-                        writeGreen("Ejercicio 7");
+                        MisFunciones.writeGreen("Ejercicio 7");
                         int numero;
                         Console.WriteLine("Introduzca un número: ");
                         numero = int.Parse(Console.ReadLine());
 
-                        writeGreen("Tabla de multiplicar del número " + numero);
+                        MisFunciones.writeGreen("Tabla de multiplicar del número " + numero);
 
                         for(i = 1; i <= 10; i++)
                         {
@@ -79,7 +71,7 @@ namespace _03BoletinBucles
                         }
                         break;
                     case 10:
-                        writeGreen("Ejercicio 10 : Sumar los m primeros números.");
+                        MisFunciones.writeGreen("Ejercicio 10 : Sumar los m primeros números.");
 
                         int m = -1;
                         int suma = 0;
@@ -122,8 +114,27 @@ namespace _03BoletinBucles
                         }
                         break;
 
+                    case 11:
+                        MisFunciones.writeGreen("Ejercicio 11: Suma 1/13 + 1/23 + 1/33 ....");
+                        int n11 = 0;
+                        do
+                        {
+                            Console.WriteLine("Introduzca un valor: ");
+                            n11 = int.Parse(Console.ReadLine());
+                        }
+                        while (n11 < 0);
+
+                        double suma11 = 0;
+
+                        for(i = 1; i < n11; i++)
+                        {
+                            suma11 = suma11 + 1 / Math.Pow(i, 3);
+                        }
+                        Console.WriteLine("Suma : " + suma11);
+                        break;
+
                     case 12:
-                        writeGreen("Ejercicio 12. Sumar los divisores de un número.");
+                        MisFunciones.writeGreen("Ejercicio 12. Sumar los divisores de un número.");
                         int n12 = 0;
                         int sumaDivisores = 0;
 
@@ -168,7 +179,7 @@ namespace _03BoletinBucles
                         break;
 
                     case 15:
-                        writeGreen("Ejercicio 15: Factorial.");
+                        MisFunciones.writeGreen("Ejercicio 15: Factorial.");
                         int numero15;
                         long factorial = 1;
                         Console.WriteLine("Introduzca un número: ");
@@ -182,7 +193,7 @@ namespace _03BoletinBucles
 
 
                     case 17:
-                        writeGreen("Ejercicio 17: Contar divisores.");
+                        MisFunciones.writeGreen("Ejercicio 17: Contar divisores.");
                         int numero17;
                         int contadorDivisores = 2;
 
@@ -205,7 +216,7 @@ namespace _03BoletinBucles
 
                         break;
                     case 18:
-                        writeGreen("Ejercicio 18: Detectar número primo");
+                        MisFunciones.writeGreen("Ejercicio 18: Detectar número primo");
                         int numero18;
                         Boolean primo = true;
                         do
@@ -233,8 +244,50 @@ namespace _03BoletinBucles
                         }
 
                         break;
+                    case 19:
+                        MisFunciones.writeGreen("Ejercicio 19 : Primer número múltiplo 3,5 y 7");
+                        int x = 100;
+                        int y = 1000;
+
+                        for(i = x; i<= y; i++)
+                        {
+                            if(i % 3 == 0 && i % 5 == 0 && i % 7 == 0)
+                            {
+                                Console.WriteLine("Multiplo de 3,5 y 7 : " + i);
+                                break;
+                            }
+                        }
+                        break;
+                    case 21:
+                        MisFunciones.writeGreen("Ejercicio 21 : Tablas de Multiplicar.");
+                        i = 1;
+                        while(i <= 10) { 
+                        Console.WriteLine("Tabla de multiplicar del " + i);
+                        for(j = 1; j <= 10; j++)
+                        {
+                            Console.WriteLine(i + " * " + j + " = " + i * j);
+                        }
+                        Console.WriteLine();
+                            i++;
+                        }
+                   
+                   /*
+                        for(i = 1; i <= 10; i++)
+                        {
+                            Console.Write("Tabla del " + i + "    ");
+                             }
+                        Console.WriteLine();
+                        for (int k = 1; k <= 10; k++)
+                        {
+                            for (i = 1; i <= 10; i++)
+                            {
+                                Console.Write(i + " * " + k + " = " + k * i + "      ");
+                            }
+                            Console.WriteLine();
+                        }*/
+                        break;
                     case 22:
-                        writeGreen("Explicación Bucles Anidados: 10 filas de 10 asteriscos");
+                        MisFunciones.writeGreen("Explicación Bucles Anidados: 10 filas de 10 asteriscos");
 
                         /*   for (i = 0; i < 10; i++)
                            {
@@ -246,19 +299,76 @@ namespace _03BoletinBucles
                                Console.WriteLine();
                         }
                         */
-                        i = 0;
-                        while (i < 10)
+                        /*    i = 0;
+                            while (i < 10)
+                            {
+                                j = 0;
+                                while (j < 10)
+                                {
+                                    Console.Write("* ");
+                                    j++;
+                                }
+                                Console.WriteLine();
+                                i++;
+                            }*/
+                        int filas = 8;
+                        int asteriscos = filas;
+                        for (i = 1; i <=filas; i++)
                         {
-                            j = 0;
-                            while (j < 10)
+                            for(j = 1; j<= asteriscos; j++)
                             {
                                 Console.Write("* ");
-                                j++;
                             }
                             Console.WriteLine();
-                            i++;
+                            asteriscos--;
                         }
 
+                        break;
+
+                    case 24:
+                        MisFunciones.writeGreen("Ejercicio 24: Mostrar todos los primos que hay en un intervalo");
+                        int limiteInferior, limiteSuperior;
+                        Console.WriteLine("Introduzca limite inferior:");
+                        limiteInferior = int.Parse(Console.ReadLine());
+
+                        Console.WriteLine("Introduzca limite superior:");
+                        limiteSuperior = int.Parse(Console.ReadLine());
+
+                        Boolean primo24 = true;
+                        int contadorPrimos24 = 0;
+
+                     /*   for (i = limiteInferior; i <= limiteSuperior; i++)
+                        {
+                            if (MisFunciones.isPrimo(i)==true)
+                            {
+                                Console.WriteLine(i + " es primo.");
+                            }
+                        }
+                     */
+
+
+                
+
+                            for (i = limiteInferior; i <= limiteSuperior; i++)
+                        {
+                            primo24 = true;
+                            for(j = 2; j <= i / 2; j++)
+                            {
+                                if(i % j == 0)
+                                {
+                                    primo24 = false;
+                                    break;
+                                }
+                            }
+
+                            if (primo24)
+                            {
+                                contadorPrimos24++;
+                                Console.WriteLine(i + " es primo");
+                            }
+                           
+                        }
+                        Console.WriteLine("Hay " + contadorPrimos24 + " primos.");
                         break;
 
                     case 25:
