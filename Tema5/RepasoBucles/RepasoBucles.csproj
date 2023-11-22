@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{65BD2072-184B-4B29-8E0F-235AAD0035A7}</ProjectGuid>
+    <ProjectGuid>{9F3F54E2-3B1A-42AB-A9AD-1F878D6FC2EF}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_03BoletinBucles</RootNamespace>
-    <AssemblyName>03BoletinBucles</AssemblyName>
+    <RootNamespace>RepasoBucles</RootNamespace>
+    <AssemblyName>RepasoBucles</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MisFunciones.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

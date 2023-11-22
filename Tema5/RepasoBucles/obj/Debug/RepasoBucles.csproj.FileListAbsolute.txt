@@ -1,0 +1,7 @@
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema5\RepasoBucles\bin\Debug\RepasoBucles.exe.config
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema5\RepasoBucles\bin\Debug\RepasoBucles.exe
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema5\RepasoBucles\bin\Debug\RepasoBucles.pdb
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema5\RepasoBucles\obj\Debug\RepasoBucles.csprojAssemblyReference.cache
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema5\RepasoBucles\obj\Debug\RepasoBucles.csproj.CoreCompileInputs.cache
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema5\RepasoBucles\obj\Debug\RepasoBucles.exe
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema5\RepasoBucles\obj\Debug\RepasoBucles.pdb
