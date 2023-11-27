@@ -1,0 +1,7 @@
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema5\Correccion_ExamenBucles\bin\Debug\Correccion_ExamenBucles.exe.config
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema5\Correccion_ExamenBucles\bin\Debug\Correccion_ExamenBucles.exe
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema5\Correccion_ExamenBucles\bin\Debug\Correccion_ExamenBucles.pdb
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema5\Correccion_ExamenBucles\obj\Debug\Correccion_ExamenBucles.csprojAssemblyReference.cache
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema5\Correccion_ExamenBucles\obj\Debug\Correccion_ExamenBucles.csproj.CoreCompileInputs.cache
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema5\Correccion_ExamenBucles\obj\Debug\Correccion_ExamenBucles.exe
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema5\Correccion_ExamenBucles\obj\Debug\Correccion_ExamenBucles.pdb
