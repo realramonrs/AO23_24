@@ -92,6 +92,81 @@ namespace _02Boletin
 
             Console.WriteLine();
 
+            Funciones.printEnunciado(7);
+
+            int n;
+            Console.WriteLine("Intro número de elementos: ");
+            n = int.Parse(Console.ReadLine());
+            
+            int[] a7 = new int[n];
+            a7[0] = 10;
+            a7[a7.Length - 1] = 9; //Última pos
+
+            Funciones.printEnunciado(8);
+            int[] a8 = new int[100];
+            Random rnd = new Random();
+
+            for(int i = 0; i < a8.Length; i++)
+            {
+                a8[i] = rnd.Next(11);
+            }
+
+            Funciones.printArray(a8);
+
+            Funciones.printEnunciado(12);
+
+            int[] a12 = new int[50];
+
+            Funciones.llenarArray(a12, -10, 10);
+            Console.WriteLine("Matriz ejercicio 12: ");
+            Funciones.printArray(a12);
+
+            long suma = 0;
+            for(int i = 0; i < a12.Length; i++)
+            {
+                suma = suma + a12[i];
+            }
+
+            Console.WriteLine("Suma: " + suma);
+
+
+            Funciones.printEnunciado(16);
+            int[] a16 = new int[50];
+
+            //Llenar de úmeros aleatorios
+            Random rnd2 = new Random();
+
+            for(int i = 0; i < a16.Length; i++)
+            {
+                a16[i] = rnd2.Next(-100, 101);
+            }
+
+            int contadorNegativos = 0;
+            for(int i = 0; i < a16.Length; i++)
+            {
+                if (a16[i] < 0)
+                {
+                    contadorNegativos++;
+                }
+            }
+
+            Console.WriteLine("Números negativos: " + contadorNegativos);
+            Funciones.printEnunciado(18);
+
+            string[] a18 = new string[10];
+            a18[0] = "RC Celta de Vigo";
+            int contador18 = 0;
+            for(int i = 0; i < a18.Length; i++)
+            {
+                if (a18[i] is null)
+                {
+                    contador18++;
+                }
+            }
+            Console.WriteLine("Posiciones vacías: " + contador18);
+
+
+
 
 
 
