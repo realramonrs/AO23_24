@@ -1,0 +1,10 @@
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema9_Apps Graficas\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema9_Apps Graficas\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema9_Apps Graficas\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema9_Apps Graficas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema9_Apps Graficas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema9_Apps Graficas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema9_Apps Graficas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema9_Apps Graficas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema9_Apps Graficas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema9_Apps Graficas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
