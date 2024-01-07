@@ -1,0 +1,7 @@
+C:\Users\Mon\Documents\GitHub\AO23_24\Tema6\04Matrices2D\01_EjemplosBasicos\01_EjemplosBasicos\bin\Debug\01_EjemplosBasicos.exe.config
+C:\Users\Mon\Documents\GitHub\AO23_24\Tema6\04Matrices2D\01_EjemplosBasicos\01_EjemplosBasicos\bin\Debug\01_EjemplosBasicos.exe
+C:\Users\Mon\Documents\GitHub\AO23_24\Tema6\04Matrices2D\01_EjemplosBasicos\01_EjemplosBasicos\bin\Debug\01_EjemplosBasicos.pdb
+C:\Users\Mon\Documents\GitHub\AO23_24\Tema6\04Matrices2D\01_EjemplosBasicos\01_EjemplosBasicos\obj\Debug\01_EjemplosBasicos.csproj.AssemblyReference.cache
+C:\Users\Mon\Documents\GitHub\AO23_24\Tema6\04Matrices2D\01_EjemplosBasicos\01_EjemplosBasicos\obj\Debug\01_EjemplosBasicos.csproj.CoreCompileInputs.cache
+C:\Users\Mon\Documents\GitHub\AO23_24\Tema6\04Matrices2D\01_EjemplosBasicos\01_EjemplosBasicos\obj\Debug\01_EjemplosBasicos.exe
+C:\Users\Mon\Documents\GitHub\AO23_24\Tema6\04Matrices2D\01_EjemplosBasicos\01_EjemplosBasicos\obj\Debug\01_EjemplosBasicos.pdb
