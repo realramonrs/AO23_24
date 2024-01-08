@@ -1,0 +1,7 @@
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema6\FOREACH\bin\Debug\FOREACH.exe.config
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema6\FOREACH\bin\Debug\FOREACH.exe
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema6\FOREACH\bin\Debug\FOREACH.pdb
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema6\FOREACH\obj\Debug\FOREACH.csprojAssemblyReference.cache
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema6\FOREACH\obj\Debug\FOREACH.csproj.CoreCompileInputs.cache
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema6\FOREACH\obj\Debug\FOREACH.exe
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema6\FOREACH\obj\Debug\FOREACH.pdb

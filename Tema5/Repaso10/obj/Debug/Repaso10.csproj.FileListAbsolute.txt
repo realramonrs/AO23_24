@@ -1,0 +1,7 @@
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema5\Repaso10\bin\Debug\Repaso10.exe.config
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema5\Repaso10\bin\Debug\Repaso10.exe
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema5\Repaso10\bin\Debug\Repaso10.pdb
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema5\Repaso10\obj\Debug\Repaso10.csprojAssemblyReference.cache
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema5\Repaso10\obj\Debug\Repaso10.csproj.CoreCompileInputs.cache
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema5\Repaso10\obj\Debug\Repaso10.exe
+C:\Users\jramo\Documents\GitHub\AO23_24\Tema5\Repaso10\obj\Debug\Repaso10.pdb
