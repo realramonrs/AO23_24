@@ -1,0 +1,7 @@
+C:\Users\Mon\Documents\GitHub\AO23_24\Tema6\04Matrices2D\02_MatricesIrregulares\02_MatricesIrregulares\bin\Debug\02_MatricesIrregulares.exe.config
+C:\Users\Mon\Documents\GitHub\AO23_24\Tema6\04Matrices2D\02_MatricesIrregulares\02_MatricesIrregulares\bin\Debug\02_MatricesIrregulares.exe
+C:\Users\Mon\Documents\GitHub\AO23_24\Tema6\04Matrices2D\02_MatricesIrregulares\02_MatricesIrregulares\bin\Debug\02_MatricesIrregulares.pdb
+C:\Users\Mon\Documents\GitHub\AO23_24\Tema6\04Matrices2D\02_MatricesIrregulares\02_MatricesIrregulares\obj\Debug\02_MatricesIrregulares.csproj.AssemblyReference.cache
+C:\Users\Mon\Documents\GitHub\AO23_24\Tema6\04Matrices2D\02_MatricesIrregulares\02_MatricesIrregulares\obj\Debug\02_MatricesIrregulares.csproj.CoreCompileInputs.cache
+C:\Users\Mon\Documents\GitHub\AO23_24\Tema6\04Matrices2D\02_MatricesIrregulares\02_MatricesIrregulares\obj\Debug\02_MatricesIrregulares.exe
+C:\Users\Mon\Documents\GitHub\AO23_24\Tema6\04Matrices2D\02_MatricesIrregulares\02_MatricesIrregulares\obj\Debug\02_MatricesIrregulares.pdb
