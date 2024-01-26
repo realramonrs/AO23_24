@@ -1,0 +1,7 @@
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 7 - Cadenas\02_Ejemplos\02_Ejemplos\bin\Debug\02_Ejemplos.exe.config
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 7 - Cadenas\02_Ejemplos\02_Ejemplos\bin\Debug\02_Ejemplos.exe
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 7 - Cadenas\02_Ejemplos\02_Ejemplos\bin\Debug\02_Ejemplos.pdb
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 7 - Cadenas\02_Ejemplos\02_Ejemplos\obj\Debug\02_Ejemplos.csproj.AssemblyReference.cache
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 7 - Cadenas\02_Ejemplos\02_Ejemplos\obj\Debug\02_Ejemplos.csproj.CoreCompileInputs.cache
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 7 - Cadenas\02_Ejemplos\02_Ejemplos\obj\Debug\02_Ejemplos.exe
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 7 - Cadenas\02_Ejemplos\02_Ejemplos\obj\Debug\02_Ejemplos.pdb
