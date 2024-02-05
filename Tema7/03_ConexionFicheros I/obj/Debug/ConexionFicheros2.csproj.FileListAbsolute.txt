@@ -1,0 +1,7 @@
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 7 - Cadenas\ConexionFicheros2\bin\Debug\ConexionFicheros2.exe.config
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 7 - Cadenas\ConexionFicheros2\bin\Debug\ConexionFicheros2.exe
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 7 - Cadenas\ConexionFicheros2\bin\Debug\ConexionFicheros2.pdb
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 7 - Cadenas\ConexionFicheros2\obj\Debug\ConexionFicheros2.csproj.AssemblyReference.cache
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 7 - Cadenas\ConexionFicheros2\obj\Debug\ConexionFicheros2.csproj.CoreCompileInputs.cache
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 7 - Cadenas\ConexionFicheros2\obj\Debug\ConexionFicheros2.exe
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 7 - Cadenas\ConexionFicheros2\obj\Debug\ConexionFicheros2.pdb
