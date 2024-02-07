@@ -99,6 +99,11 @@ namespace ConsoleApp1
                         {
                             //Estructura registro --> nombre serie*plataforma
                             //Obtenemos la cadena que hay antes del asterisco
+                            if (s == null)
+                            {
+                                Console.WriteLine("Serie no encontrada.");
+                                break;
+                            }
                             String[] trozos = s.Split('*');
                             if (serie.Equals(trozos[0],StringComparison.OrdinalIgnoreCase))
                             {
