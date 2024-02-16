@@ -1,0 +1,7 @@
+C:\Users\SUB. CICLOS\Documents\GitHub\AO23_24\Tema7\05_ConexionFicheros III\06_Boletín\bin\Debug\06_Boletín.exe.config
+C:\Users\SUB. CICLOS\Documents\GitHub\AO23_24\Tema7\05_ConexionFicheros III\06_Boletín\bin\Debug\06_Boletín.exe
+C:\Users\SUB. CICLOS\Documents\GitHub\AO23_24\Tema7\05_ConexionFicheros III\06_Boletín\bin\Debug\06_Boletín.pdb
+C:\Users\SUB. CICLOS\Documents\GitHub\AO23_24\Tema7\05_ConexionFicheros III\06_Boletín\obj\Debug\06_Boletín.csproj.AssemblyReference.cache
+C:\Users\SUB. CICLOS\Documents\GitHub\AO23_24\Tema7\05_ConexionFicheros III\06_Boletín\obj\Debug\06_Boletín.csproj.CoreCompileInputs.cache
+C:\Users\SUB. CICLOS\Documents\GitHub\AO23_24\Tema7\05_ConexionFicheros III\06_Boletín\obj\Debug\06_Boletín.exe
+C:\Users\SUB. CICLOS\Documents\GitHub\AO23_24\Tema7\05_ConexionFicheros III\06_Boletín\obj\Debug\06_Boletín.pdb
