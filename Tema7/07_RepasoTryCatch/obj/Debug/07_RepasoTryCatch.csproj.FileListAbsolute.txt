@@ -1,0 +1,7 @@
+C:\Users\SUB. CICLOS\Documents\GitHub\AO23_24\Tema7\07_RepasoTryCatch\bin\Debug\07_RepasoTryCatch.exe.config
+C:\Users\SUB. CICLOS\Documents\GitHub\AO23_24\Tema7\07_RepasoTryCatch\bin\Debug\07_RepasoTryCatch.exe
+C:\Users\SUB. CICLOS\Documents\GitHub\AO23_24\Tema7\07_RepasoTryCatch\bin\Debug\07_RepasoTryCatch.pdb
+C:\Users\SUB. CICLOS\Documents\GitHub\AO23_24\Tema7\07_RepasoTryCatch\obj\Debug\07_RepasoTryCatch.csproj.AssemblyReference.cache
+C:\Users\SUB. CICLOS\Documents\GitHub\AO23_24\Tema7\07_RepasoTryCatch\obj\Debug\07_RepasoTryCatch.csproj.CoreCompileInputs.cache
+C:\Users\SUB. CICLOS\Documents\GitHub\AO23_24\Tema7\07_RepasoTryCatch\obj\Debug\07_RepasoTryCatch.exe
+C:\Users\SUB. CICLOS\Documents\GitHub\AO23_24\Tema7\07_RepasoTryCatch\obj\Debug\07_RepasoTryCatch.pdb
