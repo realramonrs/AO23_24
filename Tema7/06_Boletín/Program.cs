@@ -109,10 +109,72 @@ namespace _06_Boletín
                         Console.WriteLine(caracter + " aparece " +  contador + " veces");
                         break;
 
+                    case 3:
+                        string dni;
+                        Boolean correcto = true;
+                        Console.WriteLine("Intro DNI: ");
+                        dni = Console.ReadLine();
+
+                        if(dni.Length != 9)
+                        {
+                            correcto = false;
+                            Console.WriteLine("El dni no tiene el formato adecuado");
+                        }
+                        else
+                        {
+                            //Validar 1ue hay 8 digitos en las 8 primeras posiciones
+                            for(int i = 0; i < 8; i++)
+                            {
+                                if (!char.IsDigit(dni[i]))
+                                {
+                                    correcto = false;
+                                    Console.WriteLine("El dni no tiene 8 digitos");
+                                    break;
+                                }
+                            }
+
+                            if (correcto)
+                            {
+                                if (!char.IsLetter(dni[8]))
+                                {
+                                    correcto=false;
+                                    Console.WriteLine("El DNI no tiene una letra en su última posición");
+                                }
+                            }
+
+                            if (correcto)
+                            {
+                                //Si llego hasta aquí es porque el dni tiene formato correcto
+                                //Ahora tengo que evaluar que la letra se corresponda con el número
+                                char[] letras =  { 'T', 'R', 'W', 'A', 'G', 'M', 'Y', 'F', 'P', 'D', 'X', 'B', 'N', 'J', 'Z', 'S', 'Q', 'V', 'H', 'L', 'C', 'K', 'E' };
+
+                                //Obtener resto de la división del numero entre 23
+                                int resto = int.Parse(dni.Substring(0, 8)) % 23;
+
+                                if (dni[8] != letras[resto])
+                                {
+                                    correcto = false;
+                                    Console.WriteLine(" La letra no se corresponde debería de ser la letra: " + letras[resto]);
+                                }
+
+                        }
+
+                            if (correcto)
+                            {
+                                Console.WriteLine("El dni es correcto!");
+                            }
+                        }
+
+
+
+
+                        break;
+
                     case 4:
                         Console.WriteLine("4. Palabras que empienzan por b");
                         string frase = "El bueno de Bruno perdió el balón";
                         Console.WriteLine("Frase: " + frase);
+
 
                         string[] palabras = frase.Split(' ');
 
@@ -125,6 +187,59 @@ namespace _06_Boletín
                         }
 
                         break;
+
+                        case 6:
+                        string frase6;
+                        int contadorAbas = 0;
+                        Console.WriteLine("Intro frase: ");
+                        frase6 = Console.ReadLine();
+                        string cadenaBusqueda;
+                        Console.WriteLine("Intro la cadena que desea buscar:");
+                        cadenaBusqueda = Console.ReadLine(); 
+
+                        string[] palabrasEj6 = frase6.Split(' ');
+
+                        foreach(String p in palabrasEj6)
+                        {
+                            if (p.Contains(cadenaBusqueda))
+                            {
+                                contadorAbas++;
+                            }
+                        }
+
+                        Console.WriteLine("Hay " + contadorAbas + " palabras que contienen " + cadenaBusqueda);
+
+                        break;
+                    case 9:
+                        String frase9;
+                        Console.WriteLine("Intro frase:");
+                        frase9 = Console.ReadLine();
+
+                        frase9 = frase9.Replace(' ', '*');
+                        Console.WriteLine(frase9);
+                        break;
+                    case 10:
+                        String registro = "nombre*fecha?2300";
+                        int salario = int.Parse(registro.Split('?')[1]);
+                        Console.WriteLine("El salario es de: " + salario);
+                        String registro2 = "nombre*2500!19Agosto1990";
+                        int salario2 = int.Parse(registro2.Split('*', '!')[1]);
+
+                        Console.WriteLine("El salario2 es de :" + salario2);
+
+                        if(salario2 > 1000)
+                        {
+                            Console.WriteLine("Mayor que 1000");
+                        }
+                        else
+                        {
+                            Console.WriteLine("Menor que 1000");
+                        }
+
+
+
+                        break;
+
                 }
             }
             while (ejercicio < 10);
