@@ -39,6 +39,29 @@ namespace _03Diccionarios
 
             //Recorrer un diccionario
 
+            Console.WriteLine("Las claves actualmente almacenadas son: ");
+foreach (String key in dic.Keys)
+{
+    Console.WriteLine(key);
+}
+
+//Recorrer los valores:
+Console.WriteLine("Los valores son: ");
+
+foreach(String value in dic.Values)
+{
+    Console.WriteLine(value);
+}
+
+//Mostrar claves y valores:
+Console.WriteLine();
+Console.WriteLine("Claves + Valores: ");
+foreach(String key in dic.Keys)
+{
+    Console.WriteLine(key + " " + dic[key]);
+}
+
+
             Console.WriteLine("Valores almacenados en el diccionario: ");
             foreach(KeyValuePair<String,String> entry in dic)
             {
