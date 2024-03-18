@@ -1,0 +1,11 @@
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 9 - Apps Gráficas\01Introduccion\bin\Debug\01Introduccion.exe.config
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 9 - Apps Gráficas\01Introduccion\bin\Debug\01Introduccion.exe
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 9 - Apps Gráficas\01Introduccion\bin\Debug\01Introduccion.pdb
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 9 - Apps Gráficas\01Introduccion\obj\Debug\01Introduccion.csproj.AssemblyReference.cache
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 9 - Apps Gráficas\01Introduccion\obj\Debug\_01Introduccion.Form1.resources
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 9 - Apps Gráficas\01Introduccion\obj\Debug\_01Introduccion.Properties.Resources.resources
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 9 - Apps Gráficas\01Introduccion\obj\Debug\01Introduccion.csproj.GenerateResource.cache
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 9 - Apps Gráficas\01Introduccion\obj\Debug\01Introduccion.csproj.CoreCompileInputs.cache
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 9 - Apps Gráficas\01Introduccion\obj\Debug\01Introduccion.exe
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 9 - Apps Gráficas\01Introduccion\obj\Debug\01Introduccion.pdb
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 9 - Apps Gráficas\01Introduccion\obj\Debug\_01Introduccion.Ejercicio1.resources

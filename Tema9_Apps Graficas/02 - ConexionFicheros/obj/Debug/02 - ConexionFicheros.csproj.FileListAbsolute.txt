@@ -1,0 +1,11 @@
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 9 - Apps Gráficas\02 - ConexionFicheros\bin\Debug\02 - ConexionFicheros.exe.config
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 9 - Apps Gráficas\02 - ConexionFicheros\bin\Debug\02 - ConexionFicheros.exe
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 9 - Apps Gráficas\02 - ConexionFicheros\bin\Debug\02 - ConexionFicheros.pdb
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 9 - Apps Gráficas\02 - ConexionFicheros\obj\Debug\02 - ConexionFicheros.csproj.AssemblyReference.cache
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 9 - Apps Gráficas\02 - ConexionFicheros\obj\Debug\_02___ConexionFicheros.Form1.resources
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 9 - Apps Gráficas\02 - ConexionFicheros\obj\Debug\_02___ConexionFicheros.Properties.Resources.resources
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 9 - Apps Gráficas\02 - ConexionFicheros\obj\Debug\02 - ConexionFicheros.csproj.GenerateResource.cache
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 9 - Apps Gráficas\02 - ConexionFicheros\obj\Debug\02 - ConexionFicheros.csproj.CoreCompileInputs.cache
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 9 - Apps Gráficas\02 - ConexionFicheros\obj\Debug\02 - ConexionFicheros.exe
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 9 - Apps Gráficas\02 - ConexionFicheros\obj\Debug\02 - ConexionFicheros.pdb
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 9 - Apps Gráficas\02 - ConexionFicheros\obj\Debug\_02___ConexionFicheros.VisorSeries.resources
