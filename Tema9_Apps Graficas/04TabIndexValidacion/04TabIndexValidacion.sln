@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04TabIndexValidacion", "04TabIndexValidacion.csproj", "{A5D6A412-C6CF-4F30-8B6B-CFC54667CDF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5D6A412-C6CF-4F30-8B6B-CFC54667CDF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5D6A412-C6CF-4F30-8B6B-CFC54667CDF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5D6A412-C6CF-4F30-8B6B-CFC54667CDF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5D6A412-C6CF-4F30-8B6B-CFC54667CDF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B420E237-480A-49EF-B4BA-F18EA83E6CBC}
+	EndGlobalSection
+EndGlobal

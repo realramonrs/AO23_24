@@ -1,0 +1,10 @@
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 9 - Apps Gráficas\03AsignarEventoVariosControles\bin\Debug\03AsignarEventoVariosControles.exe.config
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 9 - Apps Gráficas\03AsignarEventoVariosControles\bin\Debug\03AsignarEventoVariosControles.exe
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 9 - Apps Gráficas\03AsignarEventoVariosControles\bin\Debug\03AsignarEventoVariosControles.pdb
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 9 - Apps Gráficas\03AsignarEventoVariosControles\obj\Debug\03AsignarEventoVariosControles.csproj.AssemblyReference.cache
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 9 - Apps Gráficas\03AsignarEventoVariosControles\obj\Debug\_03AsignarEventoVariosControles.Form1.resources
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 9 - Apps Gráficas\03AsignarEventoVariosControles\obj\Debug\_03AsignarEventoVariosControles.Properties.Resources.resources
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 9 - Apps Gráficas\03AsignarEventoVariosControles\obj\Debug\03AsignarEventoVariosControles.csproj.GenerateResource.cache
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 9 - Apps Gráficas\03AsignarEventoVariosControles\obj\Debug\03AsignarEventoVariosControles.csproj.CoreCompileInputs.cache
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 9 - Apps Gráficas\03AsignarEventoVariosControles\obj\Debug\03AsignarEventoVariosControles.exe
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 9 - Apps Gráficas\03AsignarEventoVariosControles\obj\Debug\03AsignarEventoVariosControles.pdb
