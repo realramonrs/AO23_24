@@ -67,6 +67,14 @@ foreach(String key in dic.Keys)
             {
                 Console.WriteLine(entry.Key + " " + entry.Value);
             }
+
+//Búsqueda de la clave a partir del valor
+        String persona =   "Pedro"; 
+            foreach(KeyValuePair<String,String> kvp in dic){
+                if(kvp.Value.contains(persona){
+                    Console.WriteLine(kvp.Key);
+                }
+            }
             Console.ReadLine();
         }
     }
