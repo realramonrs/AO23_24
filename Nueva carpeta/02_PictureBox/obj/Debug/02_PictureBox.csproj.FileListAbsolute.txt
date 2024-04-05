@@ -1,0 +1,10 @@
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 10 - Apps Gráficas II\02_PictureBox\bin\Debug\02_PictureBox.exe.config
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 10 - Apps Gráficas II\02_PictureBox\bin\Debug\02_PictureBox.exe
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 10 - Apps Gráficas II\02_PictureBox\bin\Debug\02_PictureBox.pdb
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 10 - Apps Gráficas II\02_PictureBox\obj\Debug\02_PictureBox.csproj.AssemblyReference.cache
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 10 - Apps Gráficas II\02_PictureBox\obj\Debug\_02_PictureBox.Form1.resources
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 10 - Apps Gráficas II\02_PictureBox\obj\Debug\_02_PictureBox.Properties.Resources.resources
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 10 - Apps Gráficas II\02_PictureBox\obj\Debug\02_PictureBox.csproj.GenerateResource.cache
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 10 - Apps Gráficas II\02_PictureBox\obj\Debug\02_PictureBox.csproj.CoreCompileInputs.cache
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 10 - Apps Gráficas II\02_PictureBox\obj\Debug\02_PictureBox.exe
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 10 - Apps Gráficas II\02_PictureBox\obj\Debug\02_PictureBox.pdb

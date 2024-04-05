@@ -1,0 +1,10 @@
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 10 - Apps Gráficas II\01-ListBox\bin\Debug\01-ListBox.exe.config
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 10 - Apps Gráficas II\01-ListBox\bin\Debug\01-ListBox.exe
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 10 - Apps Gráficas II\01-ListBox\bin\Debug\01-ListBox.pdb
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 10 - Apps Gráficas II\01-ListBox\obj\Debug\01-ListBox.csproj.AssemblyReference.cache
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 10 - Apps Gráficas II\01-ListBox\obj\Debug\_01_ListBox.Form1.resources
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 10 - Apps Gráficas II\01-ListBox\obj\Debug\_01_ListBox.Properties.Resources.resources
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 10 - Apps Gráficas II\01-ListBox\obj\Debug\01-ListBox.csproj.GenerateResource.cache
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 10 - Apps Gráficas II\01-ListBox\obj\Debug\01-ListBox.csproj.CoreCompileInputs.cache
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 10 - Apps Gráficas II\01-ListBox\obj\Debug\01-ListBox.exe
+C:\Users\SUB. CICLOS\Documents\Visual Studio 2022\UD 10 - Apps Gráficas II\01-ListBox\obj\Debug\01-ListBox.pdb
